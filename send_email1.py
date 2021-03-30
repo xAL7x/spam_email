@@ -3,7 +3,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email import encoders
 import os.path
-print("""           ██████████████       ███████████          ████             ████            ████
+print("""
+           ██████████████       ███████████          ████             ████            ████
            ██                   ██        ██        ██  ██            ██ ██          ██ ██ 
            ██                   ██        ██       ██    ██           ██  ██        ██  ██
            ██████████████       ███████████       ██████████          ██   ██      ██   ██
